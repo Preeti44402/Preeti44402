@@ -183,3 +183,10 @@
 02&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="YOUR_TASKMAN_REPOSITORY_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preeti44402&repo=TaskMan&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
