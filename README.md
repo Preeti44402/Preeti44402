@@ -104,6 +104,82 @@
 
 ### 💖 "Code, Learn, Build, Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=Preeti44402&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Preeti444## 💼 Projects
+
+### 🧑‍💻 TaskMan – Smart Task Management Application
+
+> A modern and responsive task management application built with **React.js** to help users organize, prioritize, and track their daily tasks efficiently.
+
+✨ **Key Features**
+
+* 📝 Create, edit, and delete tasks
+* ✅ Mark tasks as completed or pending
+* 📊 Dynamic progress tracker with completion statistics
+* 🏷️ Organize tasks by priority and category
+* 💾 Local Storage integration for persistent task data
+* 📱 Fully responsive design for desktop and mobile devices
+* ⚡ Built using reusable React components and Hooks (`useState`, `useEffect`)
+
+**🛠️ Tech Stack:** React.js • JavaScript • HTML5 • CSS3 • Local Storage
+
+---
+
+### 🔍 Forensic Face Sketch Construction and Recognition
+
+> An AI-powered JavaFX desktop application designed to assist law enforcement agencies in constructing and recognizing criminal face sketches.
+
+✨ **Key Features**
+
+* 🎨 Interactive facial sketch construction
+* 🤖 Sketch recognition system
+* 🗄️ SQLite database integration
+* 🔐 Secure user authentication
+
+**🛠️ Tech Stack:** Java • JavaFX • FXML • SQLite • Git
+
+---
+
+### 🌦️ Weather Application
+
+> A responsive web application that provides real-time weather information using external weather APIs.
+
+✨ **Key Features**
+
+* 🌍 Live weather updates
+* 📍 Search by city
+* 📱 Responsive interface
+* 🌡️ Displays temperature, humidity, and weather conditions
+
+**🛠️ Tech Stack:** HTML • CSS • JavaScript • Weather API
+
+---
+
+### 🎬 Netflix Clone
+
+> A responsive front-end clone inspired by Netflix, showcasing modern UI development skills.
+
+✨ **Key Features**
+
+* 🎥 Netflix-inspired interface
+* 📱 Responsive design
+* 🎨 Interactive layouts
+* ⚡ Smooth user experience
+
+**🛠️ Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+### 💰 Expense Tracker
+
+> A simple and intuitive expense management application to monitor daily spending.
+
+✨ **Key Features**
+
+* ➕ Add and manage expenses
+* 📊 Expense tracking
+* 💡 Clean and user-friendly interface
+
+**🛠️ Tech Stack:** Java • MySQL • HTML • CSS • JavaScript
+02&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
