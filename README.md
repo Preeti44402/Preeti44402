@@ -190,3 +190,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preeti44402&repo=TaskMan&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+<p align="center">
+  <a href="YOUR_LIVE_DEMO_LINK">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit-success?style=for-the-badge"/>
+  </a>
+  <a href="YOUR_TASKMAN_REPO_LINK">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
